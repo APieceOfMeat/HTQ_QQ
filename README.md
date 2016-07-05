@@ -1,5 +1,5 @@
 # HTQ_QQ
-最近发现不少人直接download该项目然后上传到网上进行发布，虽然github为开源项目，但是请尊重本人的劳动成果，发布请写明出处：：https://github.com/HuTianQi/HTQ_QQ。否则经按照相关开源条款追究法律责任。
+最近发现不少人直接download该项目然后上传到网上进行发布，虽然github为开源项目，但是请尊重本人的劳动成果，发布请写明出处：：https://github.com/HuTianQi/HTQ_QQ
 
 
 
