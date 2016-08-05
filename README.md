@@ -1,5 +1,5 @@
 # HTQ_QQ
-最近发现不少人直接download该项目然后上传到网上进行发布，虽然github为开源项目，但是请尊重本人的劳动成果，发布请写明出处：：https://github.com/HuTianQi/HTQ_QQ
+最近发现不少人直接download该项目然后上传到网上进行发布，虽然github为开源项目，但是该项目遵循的是MIT开源协议，在使用前请您确保自己了解该开源协议，请尊重本人的劳动成果，发布请写明出处：：https://github.com/HuTianQi/HTQ_QQ
 
 
 
@@ -79,3 +79,13 @@ stackoverflow（个人觉得这个网站是调bug求帮助最好的网站，可�
             *              2015.3                     *
             *             verion:1.0                  *
             *******************************************
+#LICENSE
+The MIT License (MIT)
+
+Copyright (c) 2015 HuTianQi 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
