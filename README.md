@@ -79,6 +79,11 @@ stackoverflow（个人觉得这个网站是调bug求帮助最好的网站，可�
             *              2015.3                     *
             *             verion:1.0                  *
             *******************************************
+            
+            
+#相关链接  
+[美女笔记:一款类似印象笔记的App,欢迎大家follow与star](https://github.com/HuTianQi/YingBeautyNote)  
+[CoolWeather:本人完全自主设计与开发的一款天气App,欢迎大家follow与star](https://github.com/HuTianQi/CoolWeather)  
 #LICENSE
 The MIT License (MIT)
 
