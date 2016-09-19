@@ -67,18 +67,13 @@ stackoverflow（个人觉得这个网站是调bug求帮助最好的网站，可�
 ![image](https://github.com/HuTianQi/HTQ_QQ/raw/master/运行截图/聊天界面_3.JPG)
 ![image](https://github.com/HuTianQi/HTQ_QQ/raw/master/运行截图/腾讯QQ授权登陆界面.JPG)
 ![image](https://github.com/HuTianQi/HTQ_QQ/raw/master/运行截图/修改个性签名界面.jpg)
-![image](https://github.com/HuTianQi/HTQ_QQ/raw/master/运行截图/关于作者界面.jpg)
 
 
 
 
 
 
-            *******************************************
-            *  CopyRight:胡琪(htq) 三峡大学计算机系   *
-            *              2015.3                     *
-            *             verion:1.0                  *
-            *******************************************
+
             
             
 #相关链接  
