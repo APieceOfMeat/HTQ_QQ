@@ -1,6 +1,5 @@
 # HTQ_QQ
-最近发现不少人直接download该项目然后上传到网上进行发布，虽然github为开源项目，但是该项目遵循的是MIT开源协议，在使用前请您确保自己了解该开源协议，请尊重本人的劳动成果，发布请写明出处：：https://github.com/HuTianQi/HTQ_QQ
-
+该版本是本人入门级项目，已不再推荐（但很适合安卓新手学习安卓的各个知识点），请移步至 https://github.com/HuTianQi/QQ 。谢谢！
 
 
 
