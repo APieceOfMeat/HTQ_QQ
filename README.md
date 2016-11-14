@@ -76,6 +76,7 @@ stackoverflow（个人觉得这个网站是调bug求帮助最好的网站，可�
             
             
 #相关链接  
+【QQ：一款高仿腾讯QQ的IM App，已经实现了纯文本，表情，图片，位置，语音等信息的发送以及增，删，查好友等功能,代码质量非常高】[https://github.com/HuTianQi/QQ](https://github.com/HuTianQi/QQ)  
 【美女笔记:一款类似印象笔记的App】 [https://github.com/HuTianQi/YingBeautyNote](https://github.com/HuTianQi/YingBeautyNote)  
 【CoolWeather:本人完全自主设计与开发的一款天气App】 [https://github.com/HuTianQi/CoolWeather](https://github.com/HuTianQi/CoolWeather)  
 #LICENSE
